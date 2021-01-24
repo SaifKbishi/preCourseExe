@@ -1,0 +1,6 @@
+my solution is based on 2 arrays, one-dimensional question array and 2-dimensional answers array.
+along with one objects array for scores.
+the scores are calculated based on the questions and the answers.
+for odd questions the points earned are different from the even, to make it harder to be compromised.
+and the update for the scores is also scrambled and not on the sequential order, using nested switch case conditions.
+in each switch case each answer is weighted differently, depending on the answer and to witch avenger it belongs and his location in the avengers array
